@@ -31,19 +31,8 @@ The unit tests are the major drive n to complete the applcaition in the order of
 2. TestIsFileValid
 3. TestSortNames
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Author
 
 * **Ben Haibin Chen** - *Initial work* - [SortNames](https://github.com/benhaibinchen/globalx)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
