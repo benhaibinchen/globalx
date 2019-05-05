@@ -1,4 +1,4 @@
-# GlobalX Names Sorting Applcation
+# GlobalX Names Sorting Application
 
 This is a simple dotnet core console application built with VS 2017 Community 
 
