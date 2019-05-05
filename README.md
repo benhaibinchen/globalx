@@ -1,6 +1,8 @@
 # GlobalX Names Sorting Application
 
-This is a simple dotnet core console application built with VS 2017 Community 
+This is a simple dotnet core console application built with VS 2017 Community.
+
+The single responsibility and interface segregation principles are implemented in this solution coupled with a couple of good programming practices like exception handling and logging.
 
 ## Getting Started
 
