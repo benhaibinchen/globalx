@@ -1,0 +1,13 @@
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\sort-names-console.deps.json
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\sort-names-console.runtimeconfig.json
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\sort-names-console.runtimeconfig.dev.json
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\sort-names-console.dll
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.csproj.CoreCompileInputs.cache
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.AssemblyInfoInputs.cache
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.AssemblyInfo.cs
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\appsettings.json
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.csprojResolveAssemblyReference.cache
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\sort-names-console.pdb
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.dll
+D:\projects\globalx\sort-names-console\obj\Debug\netcoreapp2.1\sort-names-console.pdb
+D:\projects\globalx\sort-names-console\bin\Debug\netcoreapp2.1\unsorted-names-list.txt
